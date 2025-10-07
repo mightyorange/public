@@ -10,7 +10,8 @@ DOMAIN-SUFFIX,checkip.synology.com
 DOMAIN-SUFFIX,orangelab.tech
 DOMAIN-SUFFIX,hk.hsbc
 DOMAIN-SUFFIX,long.berpvh.cn
-DOMAIN-SUFFIX,bqbvvx.cc # 小说网站
+# 小说网站
+DOMAIN-SUFFIX,bqbvvx.cc
 DST-PORT,22
 ## HSBC Macbook Pro
 SRC-IP-CIDR,192.168.3.166/32,no-resolve
