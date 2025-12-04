@@ -7,9 +7,11 @@ DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-KEYWORD,quickconnect
 DOMAIN-SUFFIX,checkip.synology.com
-DOMAIN-SUFFIX,orangelab.tech
+DOMAIN-SUFFIX,checkip.dyndns.org
+DOMAIN-SUFFIX,checkipv6.synology.com
 DOMAIN-SUFFIX,hk.hsbc
 DOMAIN-SUFFIX,long.berpvh.cn
+DOMAIN-SUFFIX,ibkr.com.cn
 
 DST-PORT,22
 ## HSBC Macbook Pro
